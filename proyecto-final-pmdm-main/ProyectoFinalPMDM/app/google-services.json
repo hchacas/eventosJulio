@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344389879083",
+    "project_id": "eventosuax",
+    "storage_bucket": "eventosuax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344389879083:android:a6c0f060d327ecd158716e",
+        "android_client_info": {
+          "package_name": "com.habib.proyectofinalpsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344389879083-c4cmtnr41u1s33391pj0bo5nfepp3voq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habib.proyectofinalpsp",
+            "certificate_hash": "2793a6a45d3f1c733877c8370d94eb066f0a67db"
+          }
+        },
+        {
+          "client_id": "344389879083-s9jf0ncb8cjamp8u7tk7q8heosl62p3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8bhXxrzRUCwhiblBCBsksLsUXYOPMNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344389879083-s9jf0ncb8cjamp8u7tk7q8heosl62p3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
